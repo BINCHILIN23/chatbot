@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+joblib
+gradio
+os
+shutil
+https://github.com/BINCHILIN23/chatbot/tree/main/Chatbot
