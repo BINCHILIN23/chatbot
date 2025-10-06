@@ -4,3 +4,4 @@ spacy
 gradio
 unidecode 
 joblib
+https://github.com/BINCHILIN23/chatbot/tree/main/Chatbot
