@@ -1,0 +1,6 @@
+pandas 
+scikit-learn
+spacy 
+gradio
+unidecode 
+joblib
